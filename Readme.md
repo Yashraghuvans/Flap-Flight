@@ -1,10 +1,7 @@
 # Flap-Flight
 
-![GitHub License](https://img.shields.io/github/license/Yashraghuvans/Flap-Flight?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Yashraghuvans/Flap-Flight?style=for-the-badge&logo=github)
 ![Repo Size](https://img.shields.io/github/repo-size/Yashraghuvans/Flap-Flight?style=for-the-badge)
-<br>
-
 ![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)
 ![Made with C#](https://img.shields.io/badge/Language-C%23-239120.svg?style=for-the-badge&logo=c-sharp)
 
